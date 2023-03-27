@@ -14,7 +14,9 @@ The initial breadboarding utilized the schematic included in the ProCo Rat Analy
 
 The Rat has a really interesting history - to learn more about it I recommend the [JHS Show episode on the subject](https://www.youtube.com/watch?v=QfwpClT_26E), and for more circuit analysis Brian Wampler has published [several](https://www.youtube.com/watch?v=zBGKdnlh4Ws) [youtube](https://www.youtube.com/watch?v=IAt-hgqrocI) [videos](https://www.youtube.com/watch?v=U2ZOTbfAcNs) going over the circuit and potential tweaks, including their own (tweaked) clone.
 
-Thanks also to [Vasily Kashirin](https://grabcad.com/vasily.kashirin-1) for the awesome step models for potentiometers and jacks, and to folks on the [freestompboxes.org](https://www.freestompboxes.org/) forum for feedback and suggestions!
+Thanks as always to the folks on the [freestompboxes.org](https://www.freestompboxes.org/) forum for feedback and suggestions.
+
+Potentiometer 3D model courtesy [Vasily Kashirin](https://grabcad.com/vasily.kashirin-1).
 
 *I am not affiliated with any of the brands, sites, or products named in this overview.*
 
