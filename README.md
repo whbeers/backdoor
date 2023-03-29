@@ -1,6 +1,6 @@
 # Backdoor Distortion Effect
 
-This is my take on the ProCo "Rat" distortion effect, designed in [KiCAD](https://www.kicad.org/).  The design is based on widely available schematics, tweaked while building it out on a breadboard with my daughter. (She was involved in every stage of the development of this effect, and learned a ton!)
+This is my take on the ProCo "Rat" distortion effect, designed in [KiCAD](https://www.kicad.org/).  The design is based on widely available schematics and pretty true to the original Rat, with only a couple part value swaps that came from experimentation on a breadboard with my daughter. (She was involved in every stage of the development of this effect, and learned a ton!)
 
 The board is built on the ["Noise Floor"](https://github.com/whbeers/noise_floor) pedal platform, which provides basic power protection, audio IO, and a footswitch with LED indicator.
 
